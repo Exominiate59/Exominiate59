@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **My_radar**, **Organized** and **My_top**
 - 🎓 Student at **Epitech**
 - 📫 How to reach me: **antoine.rousselle@epitech.eu**
-- 🎖️ Passionate about the second world war
+-  🎖️ Passionate about the second world war
 
 
 ## 🌐 Socials:
