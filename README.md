@@ -17,7 +17,8 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/) 
+[![Parrot OS](https://img.shields.io/badge/parrot%20os-%2310B981.svg?style=for-the-badge&logo=parrotos&logoColor=white)](https://www.parrotsec.org/)
 
 # 📊 GitHub Stats:
 <p align="center">
