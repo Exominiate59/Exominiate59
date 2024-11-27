@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Antoine also know as Exominiate or Gonzalez:
 - 🔭 I’m currently working on My_radar, Organized and My_top<br> - 🎓 Student at Epitech<br> - 📫 How to reach me: antoine.rousselle@epitech.com<br> - 🪖 Passionate about the second world war
 
 
