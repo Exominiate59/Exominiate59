@@ -20,8 +20,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-   <img width="20%" src="https://github-readme-stats.vercel.app/api?username=Exominiate59&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-   <img width="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=Exominiate59&theme=dark&hide_border=false" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Exominiate59&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Exominiate59&theme=dark&hide_border=false" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exominiate59&theme=dark&border=false&include&all_commits=true&count_private=true&layout=compact"/>
 </p>
 
