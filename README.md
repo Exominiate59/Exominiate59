@@ -25,7 +25,9 @@
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Exominiate59&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Exominiate59&theme=dark&hide_border=false" />
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exominiate59&theme=dark&border=false&include&all_commits=true&count_private=true&layout=compact"/>
-   <img width="50%" src="https://tryhackme-badges.s3.amazonaws.com/Exominiate59.png" alt="Your Image Badge" />
+</p>
+<p align="center">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Exominiate59.png"/>
 </p>
 
 ---
