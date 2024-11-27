@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Exominiate59&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Exominiate59&theme=dark&hide_border=false)<br/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exominiate59&theme=dark&border=false&include&all_commits=true&count_private=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exominiate59&theme=dark&border=false&include&all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="500" height="300" />
 </p>
 
 ---
