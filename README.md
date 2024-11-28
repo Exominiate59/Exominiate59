@@ -20,7 +20,7 @@
 [![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/) 
 [![Parrot OS](https://img.shields.io/badge/parrot%20os-%2310B981.svg?style=for-the-badge&logo=parrotsecurity&logoColor=white)](https://www.parrotsec.org/)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 <p align="center">
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Exominiate59&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Exominiate59&theme=dark&hide_border=false" />
