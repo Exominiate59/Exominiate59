@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Antoine also known as Exominiate or Gonzalez:
-- 🔭 I’m currently working on **My_sudo** and **Gamut**
+- 🔭 I’m currently working on **MiniShell1**
 - 🎓 Student at **Epitech**
 - 📫 How to reach me: **antoine.rousselle@epitech.eu**
 - 🎖️  Passionate about the second world war
